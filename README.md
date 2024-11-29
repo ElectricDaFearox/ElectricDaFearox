@@ -4,5 +4,5 @@
 - 🐾 A long-time furry.
 - 🖥️Can read code, but sure can't write it.
 - 📱Wanna contact me? Here are the many ways!
-  Discord: ohitselectric
-  Email: contact@aluki.blue
+  - Discord: ohitselectric
+  - Email: contact@aluki.blue
